@@ -2,31 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>Prestige Collision | Home</title>
 </head>
 <body>
-
-    <header>
-        <h1>Prestige Collision</h1>
-    </header>
-
-    <nav>
-        <a href="index.html">Home</a> | 
-        <a href="services.html">Services</a>
-    </nav>
-
+    <header><h1>Welcome to Prestige Collision</h1></header>
     <div class="container">
-        <h2>Excellence in Collision Repair</h2>
-        <p>Craftsmanship meets luxury. Restore your vehicle's perfection.</p>
-        
-        <br>
-        <!-- Stripe Payment Link Example -->
-        <a href="https://buy.stripe.com/your-payment-link-here" class="btn">Pay Deposit</a>
-        <br><br>
-        <a href="mailto:info@prestigecollision.com" class="btn">Get a Free Quote</a>
+        <p>Professional auto body repair services.</p>
     </div>
-
 </body>
 </html>
